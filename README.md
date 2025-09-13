@@ -12,9 +12,9 @@
 - 📫 How to reach me **yirong.zhou@muc.edu.cn**
 
 - ⚡ Fun fact **I am Kirby Main カービィ大好き**
-- 
+  
 - 📚 Currently preparing for graduate studies in Japan (interested in Prof. Makoto Aoshima & Prof. Kazuyoshi Yata’s labs)
-- 
+  
 - 🛠️ Skills: **C++, Unity, Unreal, Blender, Python, SQL**  
 
 <h3 align="left">Connect with me:</h3>
