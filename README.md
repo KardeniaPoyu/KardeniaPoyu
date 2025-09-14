@@ -11,9 +11,9 @@
 
 - 📝 I regularly write articles on [https://yirong.site](https://yirong.site)
 
-- 📫 How to reach me **yirong.zhou@muc.edu.cn**
+- 📫 How to reach me: **yirong.zhou@muc.edu.cn**
 
-- ⚡ Fun fact **I am Kirby Main カービィ大好き**
+- ⚡ Fun fact: **I am Kirby Main カービィ大好き**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
