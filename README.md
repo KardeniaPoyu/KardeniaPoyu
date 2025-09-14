@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Graphics, AI, Game development**
 
-- 📝 I regularly write articles on [https://yirong.site/](https://yirong.site/)
+- 📝 I regularly write articles on [https://yirong.site](https://yirong.site)
 
 - 📫 How to reach me **yirong.zhou@muc.edu.cn**
 
