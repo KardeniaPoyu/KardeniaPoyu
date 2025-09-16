@@ -32,14 +32,5 @@
 </p>
 
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=KardeniaPoyu&show_icons=true&theme=transparent&title_color=FF69B4&text_color=87CEEB&icon_color=FFFFFF&hide_border=true&locale=en" alt="GitHub Stats" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=KardeniaPoyu&theme=transparent&background=00000000&fire=FF69B4&currStreakNum=FF69B4&sideLabels=FF69B4&sideNums=87CEEB&ring=FF69B4&currStreakLabel=FF69B4&border=00000000" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=KardeniaPoyu&show_icons=true&theme=transparent&title_color=FF69B4&text_color=87CEEB&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
 <img src="https://pbs.twimg.com/media/G09o94waMAEdShv.jpg" alt="Kirby Footer" width="200" />
 </p>
