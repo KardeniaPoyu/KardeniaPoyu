@@ -1,5 +1,4 @@
-# Hi 👋, I'm Yirong Zhou
-### An undergraduate majoring in Information and Computing Science from China.
+# Hi 👋, I'm KardeniaPoyu
 
 ![Kirby Header](https://github.com/KardeniaPoyu/KardeniaPoyu/raw/main/github-header-image.png?v=1)
 
