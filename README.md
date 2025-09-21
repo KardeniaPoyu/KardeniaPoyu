@@ -27,7 +27,7 @@
 
 ### Languages and Tools:
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,c,cpp,csharp,docker,git,hadoop,linux,mysql,opencv,pandas,postman,python,pytorch,qt,seaborn,sqlite,unity,unreal" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,c,cpp,docker,git,linux,mysql,opencv,postman,python,pytorch,qt,sqlite,unity,unreal" alt="My Skills" /></a>
 </p>
 
 <p align="center">
