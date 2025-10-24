@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Computer Graphics, AI, Game Development**
 - 📝 I regularly write articles on [https://yirong.site](https://yirong.site)
-- 📫 How to reach me: **yirong.zhou@muc.edu.cn**
+- 📫 How to reach me: **kardeniapoyu@zohomail.jp**
 - ⚡ Fun fact: **I am Kirby Main カービィ大好き**
 
 ### Connect with me:
