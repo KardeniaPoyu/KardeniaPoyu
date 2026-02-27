@@ -15,7 +15,7 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KardeniaPoyu&custom_title=Contribution%20Graph&theme=github-compact&line=FF69B4&point=87CEEB&hide_border=true" alt="Your github activity graph" />
 </p>
 
-- 🌱 I’m currently learning **LLM, Multimodal, Agent and Game Development**
+- 🌱 I’m currently learning **LLMs, multimodal learning, AI agents, and game development.**
 - 📝 I regularly write articles on [https://yirong.site](https://yirong.site)
 - 📫 How to reach me: **kardeniapoyu@zohomail.jp**
 - ⚡ Fun fact: **I am Kirby Main カービィ大好き**
