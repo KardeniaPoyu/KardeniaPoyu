@@ -16,7 +16,7 @@
 </p>
 
 - 🌱 I’m currently learning **LLMs, multimodal learning, AI agents, and game development.**
-- 📝 I regularly write articles on [https://yirong.site](https://yirong.site)
+- 📝 I regularly write articles on [https://blog.yirong.site](https://blog.yirong.site)
 - 📫 How to reach me: **kardeniapoyu@zohomail.jp**
 - ⚡ Fun fact: **I am Kirby Main カービィ大好き**
 
