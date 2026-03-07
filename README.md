@@ -1,4 +1,5 @@
 # Hi, I'm Kuchina
+# こんにちは、クチナです。
 
 <p align="center">
   <img src="https://github.com/KardeniaPoyu/KardeniaPoyu/raw/main/kuchina-header.png" alt="Kuchina Header" width="100%">
