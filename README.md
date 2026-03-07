@@ -1,4 +1,4 @@
-# Hi, I'm KardeniaPoyu
+# Hi, I'm Kuchina
 
 ![Kirby Header](https://github.com/KardeniaPoyu/KardeniaPoyu/raw/main/github-header-image.png?v=1)
 
