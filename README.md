@@ -17,21 +17,24 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KardeniaPoyu&custom_title=Contribution%20Graph&theme=github-compact&color=CDD6F4&line=CBA6F7&point=F5C2E7&hide_border=true" alt="Your github activity graph" />
 </p>
 
-- 🌱 I’m currently learning **LLMs, multimodal learning, AI agents, and game development.**
-- 📝 I regularly write articles on [https://blog.yirong.site](https://blog.yirong.site)
-- 📫 How to reach me: **kardeniapoyu@zohomail.jp**
-- ⚡ Fun fact: **I am Kirby Main カービィ大好き**
 
-### Connect with me:
-<p align="left">
-<a href="https://twitter.com/kardeniapoyu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kardeniapoyu" height="30" width="40" /></a>
-</p>
+### 🔭 whoami
 
-### Languages and Tools:
-<p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,c,cpp,docker,git,linux,mysql,opencv,postman,python,pytorch,qt,sqlite,unity,unreal" alt="My Skills" /></a>
-</p>
+- 🧠 **Focus:** **LLMs, RLVR**, and **Multimodal AI**.
+- 🎮 **Joy:** Game Development (mostly Unity, UE, etc.), composing.
+- 📝 **Writing:** Dropping blogs and notes at [blog.yirong.site](https://blog.yirong.site).
+- 🌟 **Fun fact:** **Kirby Main**, Learning French.
+
+### 🔗 network
 
 <p align="center">
-<img src="https://pbs.twimg.com/media/G09o94waMAEdShv.jpg" alt="Kirby Footer" width="200" />
+  <a href="https://twitter.com/kardeniapoyu" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-CBA6F7?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://blog.yirong.site" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-F5C2E7?style=for-the-badge&logo=bookstack&logoColor=white" alt="Blog" />
+  </a>
+  <a href="mailto:kardeniapoyu@zohomail.jp" target="_blank">
+    <img src="https://img.shields.io/badge/Email-CDD6F4?style=for-the-badge&logo=maildotru&logoColor=1E1E2E" alt="Email" />
+  </a>
 </p>
