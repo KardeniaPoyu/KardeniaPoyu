@@ -28,6 +28,9 @@
 ### 🔗 network
 
 <p align="center">
+  <a href="https://yirong.site" target="_blank">
+    <img src="https://img.shields.io/badge/Site-B4BEFE?style=for-the-badge&logo=known&logoColor=1E1E2E" alt="Site" />
+  </a>
   <a href="https://twitter.com/kardeniapoyu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-CBA6F7?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
