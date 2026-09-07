@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KardeniaPoyu&custom_title=Contribution%20Graph&theme=github-compact&color=CDD6F4&line=CBA6F7&point=F5C2E7&hide_border=true" alt="Your github activity graph" />
+<img width="800" src="https://activity-graph.vercel.app/graph?username=KardeniaPoyu&custom_title=Contribution%20Graph&theme=github-compact&color=CDD6F4&line=CBA6F7&point=F5C2E7&hide_border=true" alt="Your github activity graph" />
 </p>
 
 
