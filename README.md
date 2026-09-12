@@ -17,24 +17,23 @@
 <img width="800" src="https://activity-graph.vercel.app/graph?username=KardeniaPoyu&custom_title=Contribution%20Graph&theme=github-compact&color=CDD6F4&line=CBA6F7&point=F5C2E7&hide_border=true" alt="Your github activity graph" />
 </p>
 
-
 ### 🔭 whoami
 
 - 🧠 **Focus:** **LLMs, RLVR**, and **Multimodal AI**.
 - 🎮 **Joy:** Game Development (mostly Unity, UE, etc.), composing.
-- 📝 **Writing:** Dropping blogs and notes at [blog.yirong.site](https://blog.yirong.site).
+- 📝 **Writing:** Dropping blogs and notes at [blog.apoyu.com](https://blog.apoyu.com).
 - 🌟 **Fun fact:** **Kirby Main**, Learning French.
 
 ### 🔗 network
 
 <p align="center">
-  <a href="https://yirong.site" target="_blank">
+  <a href="https://apoyu.com" target="_blank">
     <img src="https://img.shields.io/badge/Site-B4BEFE?style=for-the-badge&logo=kueski&logoColor=1E1E2E" alt="Site" />
   </a>
   <a href="https://twitter.com/kardeniapoyu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-CBA6F7?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://blog.yirong.site" target="_blank">
+  <a href="https://blog.apoyu.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-F5C2E7?style=for-the-badge&logo=bookstack&logoColor=white" alt="Blog" />
   </a>
   <a href="mailto:kardeniapoyu@zohomail.jp" target="_blank">
