@@ -17,9 +17,9 @@
 ### 🔭 whoami
 
 - 🧠 **Focus:** LLMs, mostly **data, agent, evaluation, post-training, and agentic RL**.
-- 🎮 **Joy:** Game Development (Unity, UE, etc.), composing.
+- 🎮 **Joy:** Game Development (Unity, Unreal, etc.), composing music.
 - 📝 **Writing:** Dropping blogs and notes at [blog.apoyu.com](https://blog.apoyu.com).
-- 🌟 **Fun fact:** **Kirby Main**, Learning French.
+- 🌟 **Fun fact:** **Kirby Main**, currently learning French.
 
 ### 🔗 network
 
