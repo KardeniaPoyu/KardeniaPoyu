@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img width="400" src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api?username=KardeniaPoyu&show_icons=true&hide_border=true&theme=transparent&title_color=CBA6F7&text_color=CDD6F4&icon_color=F5C2E7&include_all_commits=false&rank_icon=default" alt="Your GitHub stats" />
+<img width="400" src="https:/github-readme-stats.vercel.app/api?username=KardeniaPoyu&show_icons=true&hide_border=true&theme=transparent&title_color=CBA6F7&text_color=CDD6F4&icon_color=F5C2E7&include_all_commits=false&rank_icon=default" alt="Your GitHub stats" />
 <img width="400" src="https://github-readme-streak-stats-qwrw.vercel.app/?user=KardeniaPoyu&theme=dark&mode=weekly&background=EBEBEB00&fire=F5C2E7&currStreakNum=CDD6F4&sideLabels=A6ADC8&sideNums=CDD6F4&ring=CBA6F7&currStreakLabel=A6ADC8&border=EBEBEB00" alt="GitHub Streak" />
 </p>
 
